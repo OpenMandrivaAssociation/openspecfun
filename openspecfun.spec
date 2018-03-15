@@ -6,7 +6,7 @@
 Summary:        Library providing a collection of special mathematical functions
 Name:           openspecfun
 Version:        0.5.3
-Release:        1
+Release:        2
 License:        MIT and Public Domain
 Group:          System/Libraries
 Source0:        https://github.com/JuliaLang/openspecfun/archive/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
