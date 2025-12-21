@@ -11,6 +11,7 @@ License:        MIT and Public Domain
 Group:          System/Libraries
 Source0:        https://github.com/JuliaLang/openspecfun/archive/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
 URL:            https://github.com/JuliaLang/openspecfun
+BuildRequires:	make
 BuildRequires:  gcc-gfortran
 
 %description
